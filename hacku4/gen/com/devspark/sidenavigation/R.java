@@ -32,8 +32,8 @@ public final class R {
 		public static final int side_navigation_width = 0x7f08000f;
 	}
 	public static final class drawable {
-		public static final int side_navigation_shadow_left = 0x7f02007c;
-		public static final int side_navigation_shadow_right = 0x7f02007d;
+		public static final int side_navigation_shadow_left = 0x7f02008f;
+		public static final int side_navigation_shadow_right = 0x7f020090;
 	}
 	public static final class id {
 		public static final int shadow = 0x7f050049;
